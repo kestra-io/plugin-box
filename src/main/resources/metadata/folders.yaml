@@ -1,0 +1,8 @@
+group: io.kestra.plugin.box.folders
+name: "folders"
+title: "Box Folders"
+description: "Tasks that list and create folders in Box."
+body: ""
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

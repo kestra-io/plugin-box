@@ -1,7 +1,7 @@
 @PluginSubGroup(
     title = "Box",
     description = "Box plugin for Kestra",
-    categories = PluginSubGroup.PluginCategory.DATA
+    categories = {PluginSubGroup.PluginCategory.BUSINESS}
 )
 package io.kestra.plugin.box;
 

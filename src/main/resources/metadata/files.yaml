@@ -1,0 +1,8 @@
+group: io.kestra.plugin.box.files
+name: "files"
+title: "Box Files"
+description: "Tasks that upload, download and manage files in Box."
+body: ""
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

@@ -1,0 +1,8 @@
+group: io.kestra.plugin.box.search
+name: "search"
+title: "Box Search"
+description: "Tasks that search content in Box."
+body: ""
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

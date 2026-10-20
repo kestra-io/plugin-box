@@ -1,8 +1,8 @@
 group: io.kestra.plugin.box
 name: "box"
 title: "Box"
-description: "Box plugin for Kestra"
-body: ""
+description: "Tasks that connect Kestra workflows to Box."
+body: "Upload, download, search and manage files and folders in Box, and trigger flows when new files arrive. Authenticate with a developer token, JWT or Client Credentials Grant, and keep credentials in secrets."
 videos: []
 createdBy: "Kestra Core Team"
 managedBy: "Kestra Core Team"
